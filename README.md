@@ -3,7 +3,7 @@
 ## Overview of Project
 The purpose of this analysis is to use the Kickstarter dataset from this module to visualize campaign outcomes based on their launch dates and their funding goals.
 
-## Challenges: 
+## Challenges
 For me one challenge working in excel was being able to work with a large data set. Also, working with some of the tools giving to us during the module such as the formulas used to debug errors. However, the external resources and also google and youtube was very helpful in helping me getting a better understanding of how to use the different formulas. 
 
 ## Results
