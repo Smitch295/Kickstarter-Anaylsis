@@ -10,7 +10,7 @@ For me one challenge working in excel was being able to work with a large data s
 
 ### Two conclusions about the Theater Outcomes by Launch Date:
 * Theater outcomes were the most successful in the month of June. 
-* Theater outcomes failed the most in the months of May and October.
+* Theater outcomes were the least successful in the months of November and December which is around the holiday season.
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/93875400/160247759-bbb9fd68-78f9-408e-a7d2-3e18a54dd1c7.png)
 
 ### One conclusion about the Outcomes based on Goals:
